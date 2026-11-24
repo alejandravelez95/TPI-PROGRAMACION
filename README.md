@@ -18,5 +18,8 @@ El programa permite cargar nuevas herramientas, visualizar el inventario complet
 Link al video:
 https://drive.google.com/file/d/14BzQbHyEVyV3wgkmQW594Di5G76XDgjn/view?usp=sharing
 
+Link al informe TPI
+https://drive.google.com/file/d/18eZ0dPcztdo0W0cU30Wlo7j44Lswmon3/view?usp=drive_link
+
 
 El informe se encuentra en el repositorio
